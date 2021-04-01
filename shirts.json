@@ -1,0 +1,952 @@
+[
+  {
+    "id": 1,
+    "brand": "Roadster",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6849354/2018/12/12/81d5a723-1ebd-4a8b-bf1b-6265b663bb021544597641853-Roadster-Men-Shirts-7281544597639976-1.jpg",
+    "price": 1189,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 2,
+    "brand": "HIGHLANDER",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1291760/2017/12/5/11512469309123-Highlander-Dark-Green-Slim-Fit-Casual-Shirt-5071512469308877-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 3,
+    "brand": "Dennis Lingo",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7488102/2019/8/22/8002a744-0dad-4dbb-9481-cf0090134c3b1566454086786-Dennis-Lingo-Men-Pink-Slim-Fit-Solid-Casual-Shirt-9891566454-1.jpg",
+    "price": 628,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 4,
+    "brand": "Roadster",
+    "name": "Regular Fit Solid Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10832830/2020/1/6/0e2c5f07-c15b-4be6-b21d-18842a0cd0fb1578307923940-Roadster-Men-Shirts-5441578307922318-1.jpg",
+    "price": 499,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 5,
+    "brand": "French Connection",
+    "name": "Slim Fit Solid Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13303142/2021/2/9/1ca39490-e26c-40c6-b6e2-ad1da1958ef01612866407604-French-Connection-Men-Shirts-1471612866406216-1.jpg",
+    "price": 549,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 6,
+    "brand": "HIGHLANDER",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1265392/2020/1/20/12fc0ced-84b7-4933-8cbc-5a7832c7686e1579504849580-Highlander-Black-Slim-Fit-Casual-Shirt-2521579504847937-1.jpg",
+    "price": 1119,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 7,
+    "brand": "Nautica",
+    "name": "Classic Fit Stretchable Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12407966/2020/12/14/1e772dbd-26b4-4af1-b909-1e1558afc5a41607926991331-Nautica-Men-Shirts-4291607926989425-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 8,
+    "brand": "HERE&NOW",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4425878/2018/5/11/935ce5fa-3571-4d63-8a41-32507c34fb771526040411112-HERENOW-Men-White-Regular-Fit-Solid-Casual-Shirt-261526040410974-1.jpg",
+    "price": 494,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 9,
+    "brand": "Roadster",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10398211/2019/11/25/7ab8bc06-f264-45e3-82bf-7c79f02812211574658986116-Roadster-Men-Shirts-8711574658983724-1.jpg",
+    "price": 1494,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 10,
+    "brand": "HIGHLANDER",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11889120/2020/5/28/b74b650f-a321-4b1f-bd27-108614006c041590656156603HIGHLANDERMenNavyBlueWhiteSlimFitPrintedCasualShirt1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 11,
+    "brand": "Louis Philippe Sport",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13651136/2021/3/9/13c3b7e7-1f9e-4735-a77c-0e57864deda91615273943684-Louis-Philippe-Sport-Men-Shirts-9131615273941393-1.jpg",
+    "price": 713,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 12,
+    "brand": "HERE&NOW",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7425041/2020/1/17/7061d858-c913-449a-9e46-6a67694379961579260299274-HERENOW-Men-Mustard-Regular-Fit-Solid-Casual-Shirt-102157926-1.jpg",
+    "price": 499,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 13,
+    "brand": "WROGN",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1758578/2017/5/12/11494569522819-WROGN-Men-Shirts-8521494569522516-1.jpg",
+    "price": 1259,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 14,
+    "brand": "HIGHLANDER",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6552791/2019/12/3/bf4fb26b-7d1b-45ef-a4fe-01d3d3eb43ae1575377807943-HIGHLANDER-Men-Turquoise-Blue-Slim-Fit-Solid-Casual-Shirt-35-1.jpg",
+    "price": 649,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 15,
+    "brand": "Calvin Klein Jeans",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12313232/2020/11/30/b1b96694-f538-4d43-bbd2-72b08e59f43e1606728119567-Calvin-Klein-Jeans-Men-Shirts-8941606728118095-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 16,
+    "brand": "Bene Kleed",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7189947/2018/8/30/b0a17130-00b2-47dd-9acf-75fcdf7333111535614137835-Bene-Kleed-Men-Off-White--Blue-Slim-Fit-Printed-Casual-Shirt-3181535614137565-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 17,
+    "brand": "Roadster",
+    "name": "Pure Cotton Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12919364/2021/3/3/27d734c0-49c7-4f46-aff3-65fb9e43d3a21614769695973-Roadster-Men-Green-Regular-Fit-Solid-Casual-Shirt-9716147696-1.jpg",
+    "price": 934,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 18,
+    "brand": "HIGHLANDER",
+    "name": "Slim Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1265391/2018/8/28/20ed5c08-b7f2-4314-ae55-4940ea6bd7881535444945463-Highlander-Burgundy-Slim-Fit-Casual-Shirt-3631535444945249-1.jpg",
+    "price": 559,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 19,
+    "brand": "Mast & Harbour",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8714063/2019/2/15/4af5dfcf-8c7f-4fa6-b4fe-1d36a2fc47001550233646175-Mast--Harbour-Men-Shirts-1251550233644851-1.jpg",
+    "price": 1049,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 20,
+    "brand": "HERE&NOW",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6967375/2018/11/2/61d8ed3f-afd5-4f76-8408-6095576c83b81541160237662-HERENOW-Men-Maroon--Grey-Regular-Fit-Printed-Casual-Shirt-8361541160237487-1.jpg",
+    "price": 549,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 21,
+    "brand": "Roadster",
+    "name": "Regular Fit Striped Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10945088/2020/1/31/80fea103-f089-476d-a27d-6594a069a1281580455058892-Roadster-Men-Shirts-6341580455057092-1.jpg",
+    "price": 1699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 22,
+    "brand": "HIGHLANDER",
+    "name": "Washed Denim Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1265399/2018/3/30/11522394285273-Highlander-Blue-Slim-Washed-Denim-Casual-Shirt-5701522394285017-1.jpg",
+    "price": 629,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 23,
+    "brand": "H&M",
+    "name": "Oxford Shirt Regular Fit",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/9/547dae90-8f7c-4e67-ad0d-f65eecd85b661612882539642-1.jpg",
+    "price": 562,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 24,
+    "brand": "Nautica",
+    "name": "Classic Regular Fit Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12407962/2020/10/15/a1b2ea90-c3c4-4635-bffc-6dd03bc60e9a1602756016893ShirtsNauticaMenShirtsNauticaMenShirtsNauticaMenShirtsNautic1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 25,
+    "brand": "LOCOMOTIVE",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/3/1/1d810832-d0e4-4ef6-b27a-c5128477c7771614584542129-1.jpg",
+    "price": 549,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 26,
+    "brand": "HIGHLANDER",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2256566/2018/2/7/11517989821674-HIGHLANDER-Men-Teal-Slim-Fit-Solid-Casual-Shirt-2651517989821443-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 27,
+    "brand": "Roadster",
+    "name": "Reversible Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2220391/2019/10/30/5a2563b8-7c05-4a80-acd1-bd2d594d14691572432401999-Roadster-Men-Navy-Blue--Grey-Regular-Fit-Checked-Reversible--1.jpg",
+    "price": 2799,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 28,
+    "brand": "Mast & Harbour",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11195048/2020/1/16/d804f2b2-131c-4187-825e-57cffde7c90d1579168412536-Mast--Harbour-Men-Shirts-891579168410565-1.jpg",
+    "price": 1119,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 29,
+    "brand": "HERE&NOW",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2414313/2018/3/13/11520926368526-HERENOW-Men-Red--Black-Regular-Fit-Checked-Casual-Shirt-8881520926368447-1.jpg",
+    "price": 1049,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 30,
+    "brand": "HIGHLANDER",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7324885/2019/12/4/f383d293-415a-4606-ab12-cc07ab603ec41575437710624-HIGHLANDER-Men-Brown--Black-Slim-Fit-Checked-Casual-Shirt-81-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 31,
+    "brand": "U.S. Polo Assn. Denim Co.",
+    "name": "Slim Fit Solid Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13525356/2021/2/10/b8c2bbfd-dc20-444a-a8d3-626ededf7a491612958587571-US-Polo-Assn-Denim-Co-Men-Shirts-6601612958584599-1.jpg",
+    "price": 519,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 32,
+    "brand": "Nautica",
+    "name": "Printed Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12407918/2020/11/18/65d53cd4-060e-40f4-af3a-cd5df3a4aa891605688731372JacketsPumaMenJacketsPumaMenJacketsPumaMenJacketsPumaMenJack1.jpg",
+    "price": 1624,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 33,
+    "brand": "Mast & Harbour",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11007592/2019/12/30/c2030f48-b0ae-4844-a3d6-7ca41af863641577688856712-Mast--Harbour-Men-Shirts-2031577688854376-1.jpg",
+    "price": 1539,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 34,
+    "brand": "HIGHLANDER",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2127040/2019/12/3/f3baf5dc-1cc2-451e-8df1-037a7e1859c91575367482452-HIGHLANDER-Men-White-Slim-Fit-Solid-Casual-Shirt-83615753674-1.jpg",
+    "price": 545,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 35,
+    "brand": "HERE&NOW",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12123378/2020/8/14/dcd13f23-f433-4c67-acfc-1be8684387ad1597405871839-HERENOW-Men-Shirts-7801597405869866-1.jpg",
+    "price": 965,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 36,
+    "brand": "Levis",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11166088/2020/9/29/cea94612-1be9-4bf8-8cf0-76ac9d3581b51601364118319-Levis-Men-Shirts-9201601364117328-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 37,
+    "brand": "Roadster",
+    "name": "Checked Regular Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12947842/2021/2/15/9c59814b-1dc2-4226-a21f-c7a85f69143d1613374909392-Roadster-Men-Shirts-5761613374907658-1.jpg",
+    "price": 1104,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 38,
+    "brand": "ether",
+    "name": "Anti-Microbial Oxford Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11746230/2021/1/13/728e0e3e-e65d-4606-9cfc-e93c03a69b5b1610517666788-ether-Men-White-Regular-Fit-Solid-Casual-Shirt-8011610517666-1.jpg",
+    "price": 1299,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 39,
+    "brand": "HIGHLANDER",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/6/26/87561583-8e5b-495d-b8c1-9515fb8021031593121198266-1.jpg",
+    "price": 2599,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 40,
+    "brand": "Nautica",
+    "name": "Printed Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12407970/2021/3/19/7a68548a-eaf0-4559-a00c-ba298d8578161616134694948-Nautica-Men-White--Blue-Slim-Fit-Printed-Casual-Shirt-949161-1.jpg",
+    "price": 1689,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 41,
+    "brand": "HIGHLANDER",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/3/5/912fa5ef-4f55-4441-ad19-cce9b78b2d4c1614943643690-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 42,
+    "brand": "Campus Sutra",
+    "name": "Men Standard Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10456354/2019/8/22/d56e75f6-f1a7-4fdd-b430-51befb36f88d1566454760527-Campus-Sutra-Men-Colourblocked-Casual-Spread-Shirt-290156645-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 43,
+    "brand": "Roadster",
+    "name": "Men Regular Check Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2116962/2017/9/27/11506510782416-Roadster-Men-Black--Green-Regular-Fit-Checked-Casual-Shirt-5561506510782069-1.jpg",
+    "price": 494,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 44,
+    "brand": "Mast & Harbour",
+    "name": "Men Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2042528/2017/9/28/11506599316866-Mast--Harbour-Men-Red--Blue-Regular-Fit-Checked-Casual-Shirt-7991506599316924-1.jpg",
+    "price": 604,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 45,
+    "brand": "HIGHLANDER",
+    "name": "Men Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/2/6/d411ccdf-5a8e-469e-b4d4-74151a14b0931580943722511-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 46,
+    "brand": "GANT",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11950124/2020/6/13/0831d0b9-5aa0-4e74-b46b-595e33c651ea1592059024213GANTMenBlueShirt1.jpg",
+    "price": 671,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 47,
+    "brand": "Roadster",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12918862/2021/2/19/8e905f4b-e000-48d9-8957-7a6456d1b8011613730419952-Roadster-Men-Shirts-5831613730417728-1.jpg",
+    "price": 764,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 48,
+    "brand": "HERE&NOW",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4425879/2018/5/7/11525678718528-HERENOW-Men-Olive-Green-Regular-Fit-Self-Design-Casual-Shirt-5111525678718382-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 49,
+    "brand": "Roadster",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8889511/2019/4/3/f3e974a4-1680-487f-8e9a-3a2df1b3157f1554281507539-Roadster-Men-Navy-Blue--Beige-Regular-Fit-Checked-Casual-Shi-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "id": 50,
+    "brand": "Mast & Harbour",
+    "name": "Men Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8715463/2019/10/31/aa9280cb-9b78-4f63-92a7-b641395dd09a1572527624039-Mast--Harbour-Men-Shirts-501572527621468-1.jpg",
+    "price": 799,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "men"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Reversible Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1805423/2019/7/12/41b6f213-1644-49a1-9a12-9d9a2b1607c31562934352549-Roadster-Navy-Blue--Red-Regular-Fit-Checked-Reversible-Casua-1.jpg",
+    "price": 764,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Time Travlr Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1805910/2018/5/9/890d3187-61dc-40de-ab47-18b521ea9f601525856749699-Roadster-Women-Peach--Purple-Regular-Fit-Checked-Casual-Shirt-7661525856749413-1.jpg",
+    "price": 599,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Texco",
+    "name": "Striped Formal Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1527257/2020/1/20/2bb9094c-117c-460c-a1ff-268300299b881579509487844-Texco-Women-Black--White-Striped-Formal-Shirt-32157950948680-1.jpg",
+    "price": 769,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "AND",
+    "name": "Women Solid Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11535072/2021/1/22/6ae960b0-eade-4fe8-99f7-67c3d27b04d01611313453031-AND-Women-White-Solid-Regular-Fit-Casual-Shirt-9911611313451-1.jpg",
+    "price": 899,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2418013/2021/1/27/089225e3-14cf-4322-b300-6e805b1cc06b1611738678086-Roadster-Women-Navy-Blue--Blue-Regular-Fit-Checked-Casual-Sh-1.jpg",
+    "price": 854,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Dyed Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9656253/2019/6/11/6968c331-3478-4a3e-95ca-08be577957cf1560256230447-Roadster-Women-Shirts-5261560256229167-1.jpg",
+    "price": 779,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Checked Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1557599/2016/11/24/11479980000004-Roadster-Women-Navy-Blue-Regular-Fit-Checked-Casual-Shirt-131479979999518-1.jpg",
+    "price": 559,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "SASSAFRAS",
+    "name": "Dobby Sheer Boxy Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11549510/2020/2/28/bd54b771-8b3f-4a01-84c9-68efe76fd4dd1582876765649-SASSAFRAS-Women-Black-Regular-Fit-Self-Design-Casual-Shirt-3-1.jpg",
+    "price": 649,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1557593/2018/9/14/df305d77-9001-4561-ba16-8ee2d32b992a1536917617827-Roadster-Women-Charcoal--Pink-Slim-Fit-Checked-Casual-Shirt--1.jpg",
+    "price": 649,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "DressBerry",
+    "name": "EcoVero Boxy Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13179640/2021/1/15/fe05e6f8-44bd-4057-8e67-842b80e038501610705072923-DressBerry-Women-Shirts-3001610705071690-1.jpg",
+    "price": 724,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Reversible Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2118240/2017/10/31/11509426886605-Roadster-Women-Black--Olive-Green-Regular-Fit-Solid-Casual-Shirt-1781509426886446-1.jpg",
+    "price": 764,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Harvard",
+    "name": "Solid Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1718905/2017/6/12/11497248034511-Harvard-Blue-Solid-Casual-Denim-Shirt-8401497248033813-1.jpg",
+    "price": 799,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2032106/2017/9/4/11504502813192-Roadster-Women-Blue--Black-Regular-Fit-Checked-Casual-Shirt-4551504502813013-1.jpg",
+    "price": 674,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1764467/2018/3/6/11520331764585-Roadster-Women-Maroon-Regular-Fit-Solid-Casual-Shirt-591520331764389-1.jpg",
+    "price": 499,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Darzi",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/25/f4c419ab-1225-4ad7-b8ce-2069fdcfe4811614256494055-1.jpg",
+    "price": 599,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11987164/2020/7/7/3252c353-32e3-4ccc-9a2d-9101957b4fcb1594113095777-Roadster-Women-Navy-Blue--Pink-Regular-Fit-Checked-Casual-Sh-1.jpg",
+    "price": 884,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2032114/2018/4/13/11523598187171-Roadster-Women-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Shirt-2871523598186984-1.jpg",
+    "price": 629,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Time Travlr Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2420098/2018/2/19/11519043979762-Roadster-Women-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Shirt-8091519043979495-1.jpg",
+    "price": 779,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "DressBerry",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10440478/2019/10/24/ffba9139-bd98-4d79-b4b9-c4cf9b3f9e731571910097649-DressBerry-Women-Tops-6811571910095250-1.jpg",
+    "price": 589,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Time Travlr Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1719876/2018/8/14/08590ff0-41c6-4599-a304-d1bff9e4bab41534245866127-Roadster-Time-Travlr-Women-Pink-Slim-Fit-Checked-Casual-Shirt-3851534245865854-1.jpg",
+    "price": 824,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2418008/2018/2/10/11518238501495-Roadster-Women-Blue-Regular-Fit-Checked-Casual-Shirt-7621518238501309-1.jpg",
+    "price": 759,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7207499/2018/9/18/fe80d79d-e4fc-4de6-861c-5ce512e9c11a1537254031087-Roadster-Women-Mauve-Regular-Fit-Printed-Casual-Shirt-654153-1.jpg",
+    "price": 659,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "La Zoire",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/29/ae73d4d7-731b-451f-9b77-6128fe6a99891611935223188-1.jpg",
+    "price": 769,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "ETC",
+    "name": "Floral Print Sleep Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12441612/2020/12/18/6bef6fc8-e387-41a0-9cb9-b3a2e661d49b1608277548238-ETC-Women-Nightdress-3191608277546673-1.jpg",
+    "price": 479,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1805909/2017/4/20/11492684152945-Roadster-Women-Off-white-Regular-Fit-Checked-Casual-Shirt-3201492684152700-1.jpg",
+    "price": 749,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Shaftesbury London",
+    "name": "Cotton Smart Slim Fit Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13401246/2021/2/8/a8b2121d-5c5e-431f-8ad6-37c88660c3bb1612775504583-Shaftesbury-London-Women-Blue-Cotton-Smart-Slim-Fit-Solid-Ca-1.jpg",
+    "price": 799,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Hancock",
+    "name": "Woven Slim Fit Formal Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12726890/2020/11/3/d959af6e-9f87-4527-8618-49b2b2436cd21604397605040-Hancock-Women-Shirts-141604397602988-1.jpg",
+    "price": 664,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Tokyo Talkies",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/7/11/fae54877-396b-4d62-971e-cc44bda6f32d1594420280475-1.jpg",
+    "price": 674,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7326136/2018/10/24/15ca9553-4fda-420d-bd83-fb41d60b2e591540363400365-Roadster-Women-Black-Regular-Fit-Striped-Casual-Shirt-2841540363399626-1.jpg",
+    "price": 599,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Mast & Harbour",
+    "name": "Women Floral Regular Fit Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11193158/2020/3/13/ac2d6378-8fb9-44ff-a2fa-0818fe5180041584083403406-Mast--Harbour-Women-White--Blue-Regular-Fit-Printed-Casual-S-1.jpg",
+    "price": 884,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "DressBerry",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8277941/2019/3/12/c35d97bb-befd-45a1-92dd-24c4ceb7ed751552389963495-DressBerry-Women-Shirts-7091552389962367-1.jpg",
+    "price": 449,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2417998/2018/2/10/11518238492532-Roadster-Women-Green--Black-Regular-Fit-Checked-Casual-Shirt-4711518238492366-1.jpg",
+    "price": 825,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "DressBerry",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8883873/2019/3/25/178bc855-baca-4b1e-81cf-f34244648e901553492196446-DressBerry-Women-Tops-7131553492195225-1.jpg",
+    "price": 539,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Berrylush",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2018/12/17/a46f8bf0-9afd-4084-954b-f52bc9b291551545048273515-1.jpg",
+    "price": 683,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Relaxed Boxy Fit Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2028078/2019/4/26/125a9a9d-d452-4ae4-9163-dd0d3244003a1556282322230-Roadster-Women-Beige--Maroon-Checked-Relaxed-Boxy-Fit-Casual-1.jpg",
+    "price": 909,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Time Travlr Relaxed Regular Fit Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2067664/2017/9/4/11504501660957-Roadster-Women-Red--Black-Regular-Fit-Checked-Casual-Shirt-8661504501660779-1.jpg",
+    "price": 674,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Tokyo Talkies",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/7/25/620de0af-3e40-4e7c-a79d-330b688387a01564074641180-1.jpg",
+    "price": 459,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Crimsoune Club",
+    "name": "Slim Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/3/1/a91ad333-f140-4054-868e-c8ff31a5c1b91614578345244-1.jpg",
+    "price": 1119,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "her by invictus",
+    "name": "Women Regular Fit Formal Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10991356/2020/2/4/5c5d1a7e-1d8e-492e-a92c-54cffeb847271580801304295-her-by-invictus-Women-Shirts-1081580801302306-1.jpg",
+    "price": 974,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "DOROTHY PERKINS",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11649444/2021/1/22/878cdb32-be05-41dc-858d-e2ab27bc5f7f1611305982546-DOROTHY-PERKINS-Women-Blue-Oxford-Weave-Regular-Fit-Solid-Ca-1.jpg",
+    "price": 1488,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "HOUSE OF KKARMA",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/11/21/d6a0387b-b426-4eac-bc8d-30e71574c1321605944611716-1.jpg",
+    "price": 989,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Neerus",
+    "name": "Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/22/2affe1da-3138-4208-bf0d-8149a4069df51611311916405-1.jpg",
+    "price": 745,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9656251/2019/6/1/7b06399a-1f46-4745-a1be-5d17d28d8ddf1559392385813-Roadster-Women-White-Regular-Fit-Solid-Casual-Shirt-69315593-1.jpg",
+    "price": 779,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Brown Regular Fit Solid Casual Resort Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11681582/2020/8/6/80b6fb24-bd97-455a-89e1-5b91e14eceb21596714467578-Roadster-Women-Brown-Regular-Fit-Solid-Casual-Shirt-91515967-1.jpg",
+    "price": 599,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "all about you",
+    "name": "Regular Striped Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13205012/2021/2/26/7c03d33f-4931-49d6-9613-7c448a61f9cc1614322700013-all-about-you-Women-Shirts-4751614322697516-1.jpg",
+    "price": 1049,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Style Quotient",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8628921/2019/2/14/9f98d526-dc82-4a13-bc49-4f943f0ae44f1550147071167-Style-Quotient-Women-White-Regular-Fit-Solid-Casual-Shirt-57-1.jpg",
+    "price": 584,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "DressBerry",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2330952/2018/3/20/11521526924500-DressBerry-Women-Blue-Regular-Fit-Printed-Casual-Shirt-5411521526924316-1.jpg",
+    "price": 699,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Mast & Harbour",
+    "name": "Pure Cotton Checked Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13391770/2021/3/1/76efb95c-1b05-47dd-8e7c-d6914e3cdd561614577521312-Mast--Harbour-Women-Red--Navy-Blue-Regular-Fit-Checked-Casua-1.jpg",
+    "price": 1199,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Women Regular Fit Casual Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11391978/2020/2/17/4556d36b-caef-4be1-92b2-a6f7be50e0931581939704202-Roadster-Women-Green-Regular-Fit-Checked-Casual-Shirt-430158-1.jpg",
+    "price": 899,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  },
+  {
+    "brand": "Roadster",
+    "name": "Pure Cotton Regular Fit Shirt",
+    "preview": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12190826/2021/1/8/8861a839-00ee-4fe1-b2a2-371d6b0e04241610107166505-Roadster-Women-Shirts-7731610107164805-1.jpg",
+    "price": 599,
+    "category": "clothing",
+    "articleType": "shirts",
+    "gender": "women"
+  }
+]
